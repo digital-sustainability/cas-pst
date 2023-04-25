@@ -6,4 +6,145 @@ toc::[]
 
 == Modul 5 - Public IT: Cloud & Open Source Software
 
+=== Tag 1: Open Source Grundlagen & Verwendung
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|===
+
+|⏱️ Zeit
+|💡 Thema
+|🔠 Format
+|🧑 Referent
+
+| 09.15 – 10.15
+| IT -Grundlagen, Begriffe & Konzepte 
+| Vortrag
+| Markus Tiede
+
+| 10.30 – 11.30
+| Open Source (Software) – Einführung
+| Vortrag
+| Markus Tiede
+
+| 11.45 – 12.30
+| Open Source Alternativen – Teil 1
+| Gruppenarbeit & Hands-on
+| 
+
+| 
+| --------------------------------------------------------
+| ------------------------------------
+| 
+
+| 13.30 – 14.30
+| Open Source Alternativen – Teil 2
+| Gruppenpräsentation: Show & Tell
+| 
+
+| 14.45 – 15.45
+| Beispiele aus der Wirtschaft
+| Vortrag
+| Markus Tiede
+
+| 16.00 – 16.45
+| Open Source im Detail - Rechte & Pflichten: Lizenzen
+| Vortrag
+| RK & Markus Tiede
+
+|===
+
+=== Tag 2: OSPOs & Digitale Souveränität
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|===
+
+|⏱️ Zeit
+|💡 Thema
+|🔠 Format
+|🧑 Referent
+
+| 09.15 – 10.15
+| OSPOs: Co-creation, Compliance & Communities – Teil 1 
+| Vortrag
+| Markus Tiede
+
+| 10.30 – 11.30
+| OSPOs: Co-creation, Compliance & Communities – Teil 2
+| Vortrag
+| Markus Tiede
+
+| 11:45 – 12.30
+| Vorstellung: Verein CH Open
+| Vortrag
+| Markus Tiede
+
+| 
+| --------------------------------------------------------
+| ------------------------------------
+| 
+
+| 13.30 – 14.30
+| Einführung “Cloud, Open-APIs & Co”
+| Vortrag
+| 
+
+| 14.45 – 15.45
+| Digitale Souveränität
+| Vortrag
+| Markus Tiede
+
+| 16.00 – 16.45
+| Praxisbeispiel
+| Gastvortrag
+| TBD
+
+|===
+
+=== Tag 3: Big Picture, konkrete Schritte & Herausforderung(en)
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|===
+
+|⏱️ Zeit
+|💡 Thema
+|🔠 Format
+|🧑 Referent
+
+| 09.15 – 10.15
+| Public IT in der Schweiz – Big Picture & Tech Stack: 2030++
+| Vortrag
+| Markus Tiede
+
+| 10.30 – 11.30
+| Abgrenzung – klassische IT & Künstliche Intelligenz 
+| Vortrag
+| Markus Tiede
+
+| 11.45 – 12.30
+| Next Steps: Was ändere ich ab morgen?
+| Gruppenarbeit
+| 
+
+| 
+| --------------------------------------------------------
+| ------------------------------------
+| 
+
+| 13.30 – 14.30
+| Präsentation und Diskussion
+| Plenum
+| 
+
+| 14.45 – 15.45
+| Impediments & Lösungsansätze
+| Moderiertes Gespräch
+| Markus Tiede
+
+| 16.00 – 16.45
+| [Puffer]
+| 
+| 
+
+|===
+
 == Modul 6 - Digitale Nachhaltigkeit Datenvisualisierung in Anwendung
