@@ -1,5 +1,9 @@
-= CAS: Public Sector Trends
+= link:https://www.bfh.ch/de/weiterbildung/cas/public-sector-transformation/[CAS: Public Sector Transformation]
+:toc:
+:toc-placement!:
 
-== Modul 5
+toc::[]
 
-== Modul 6
+== Modul 5 - Public IT: Cloud & Open Source Software
+
+== Modul 6 - Digitale Nachhaltigkeit Datenvisualisierung in Anwendung
