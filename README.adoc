@@ -4,7 +4,9 @@
 
 toc::[]
 
-== Modul 5 - Public IT: Cloud & Open Source Software
+== Modul 5
+
+> Public IT: Cloud & Open Source Software
 
 === Tag 1: Open Source Grundlagen & Verwendung
 
@@ -147,4 +149,6 @@ toc::[]
 
 |===
 
-== Modul 6 - Digitale Nachhaltigkeit Datenvisualisierung in Anwendung
+== Modul 6
+
+> Digitale Nachhaltigkeit Datenvisualisierung in Anwendung
