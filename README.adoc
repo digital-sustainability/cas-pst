@@ -18,37 +18,37 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 09.15 – 10.15
+| 08.30 – 09.30 (1h)
 | IT -Grundlagen, Begriffe & Konzepte 
 | Vortrag
 | Markus Tiede
 
-| 10.30 – 11.30
+| 09.45 – 10.45 (1h)
 | Open Source (Software) – Einführung
 | Vortrag
 | Markus Tiede
 
-| 11.45 – 12.30
+| 11.00 – 12.00 (1h)
 | Open Source Alternativen – Teil 1
 | Gruppenarbeit & Hands-on
 | 
 
 | 
-| --------------------------------------------------------
-| ------------------------------------
+| 
+| 
 | 
 
-| 13.30 – 14.30
+| 13.15 – 14.15 (1h)
 | Open Source Alternativen – Teil 2
 | Gruppenpräsentation: Show & Tell
 | 
 
-| 14.45 – 15.45
+| 14.30 – 15.30 (1h)
 | Beispiele aus der Wirtschaft
 | Vortrag
 | Markus Tiede
 
-| 16.00 – 16.45
+| 15.45 – 16.30 (45 min)
 | Open Source im Detail - Rechte & Pflichten: Lizenzen
 | Vortrag
 | RK & Markus Tiede
@@ -65,37 +65,37 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 09.15 – 10.15
+| 08.30 – 09.30 (1h)
 | OSPOs: Co-creation, Compliance & Communities – Teil 1 
 | Vortrag
 | Markus Tiede
 
-| 10.30 – 11.30
+| 09.45 – 10.45 (1h)
 | OSPOs: Co-creation, Compliance & Communities – Teil 2
 | Vortrag
 | Markus Tiede
 
-| 11:45 – 12.30
+| 11.00 – 12.00 (1h)
 | Vorstellung: Verein CH Open
 | Vortrag
 | Markus Tiede
 
 | 
-| --------------------------------------------------------
-| ------------------------------------
+| 
+| 
 | 
 
-| 13.30 – 14.30
+| 13.15 – 14.15 (1h)
 | Einführung “Cloud, Open-APIs & Co”
 | Vortrag
 | 
 
-| 14.45 – 15.45
+| 14.30 – 15.30 (1h)
 | Digitale Souveränität
 | Vortrag
 | Markus Tiede
 
-| 16.00 – 16.45
+| 15.45 – 16.30 (45 min)
 | Praxisbeispiel
 | Gastvortrag
 | TBD
@@ -112,37 +112,37 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 09.15 – 10.15
+| 08.30 – 09.30 (1h)
 | Public IT in der Schweiz – Big Picture & Tech Stack: 2030++
 | Vortrag
 | Markus Tiede
 
-| 10.30 – 11.30
+| 09.45 – 10.45 (1h)
 | Abgrenzung – klassische IT & Künstliche Intelligenz 
 | Vortrag
 | Markus Tiede
 
-| 11.45 – 12.30
+| 11.00 – 12.00 (1h)
 | Next Steps: Was ändere ich ab morgen?
 | Gruppenarbeit
 | 
 
 | 
-| --------------------------------------------------------
-| ------------------------------------
+| 
+| 
 | 
 
-| 13.30 – 14.30
+| 13.15 – 14.15 (1h)
 | Präsentation und Diskussion
 | Plenum
 | 
 
-| 14.45 – 15.45
+| 14.30 – 15.30 (1h)
 | Impediments & Lösungsansätze
 | Moderiertes Gespräch
 | Markus Tiede
 
-| 16.00 – 16.45
+| 15.45 – 16.30 (45 min)
 | [Puffer]
 | 
 | 
