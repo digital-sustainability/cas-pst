@@ -98,7 +98,7 @@ toc::[]
 | 15.45 – 16.30 (45 min)
 | **Praxisbeispiel**
 | Gastvortrag
-| TBD
+| https://github.com/czosel[Christian Zosel] - https://github.com/adfinis[@adfinis]
 
 |===
 
