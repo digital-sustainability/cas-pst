@@ -50,8 +50,8 @@ toc::[]
 
 | 15.45 – 16.30 (45 min)
 | **Open Source im Detail - Rechte & Pflichten**: Lizenzen
-| Vortrag
-| RK & Markus Tiede
+| Gastvortrag
+| https://www.ronzani-schlauri.com/schlauri-de[Simon Schlauri]
 
 |===
 
