@@ -43,12 +43,12 @@ toc::[]
 | Gruppenpräsentation: Show & Tell
 | 
 
-| 14.30 – 15.30 (1h)
+| 14.30 – 15.15 (45 min)
 | **Beispiele aus der Wirtschaft**
 | Vortrag
 | Markus Tiede
 
-| 15.45 – 16.30 (45 min)
+| 15.30 – 16.30 (1h)
 | **Open Source im Detail - Rechte & Pflichten**: Lizenzen
 | Vortrag
 | RK & Markus Tiede
@@ -90,12 +90,12 @@ toc::[]
 | Vortrag
 | 
 
-| 14.30 – 15.30 (1h)
+| 14.30 – 15.15 (45 min)
 | **Digitale Souveränität**
 | Vortrag
 | Markus Tiede
 
-| 15.45 – 16.30 (45 min)
+| 15.30 – 16.30 (1h)
 | **Praxisbeispiel**
 | Gastvortrag
 | TBD
