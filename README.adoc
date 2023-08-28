@@ -18,7 +18,7 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 08.30 – 09.30 (1h)
+| 08.45 – 09.30 (45 min)
 | IT-**Grundlagen, Begriffe & Konzepte** 
 | Vortrag
 | Markus Tiede
@@ -65,17 +65,17 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 08.30 – 09.30 (1h)
+| 08.45 – 09.45 (1h)
 | **OSPOs: Co-creation, Compliance & Communities** – Teil 1 
 | Vortrag
 | Markus Tiede
 
-| 09.45 – 10.45 (1h)
+| 10.00 – 11.00 (1h)
 | **OSPOs: Co-creation, Compliance & Communities** – Teil 2
 | Vortrag
 | Markus Tiede
 
-| 11.00 – 12.00 (1h)
+| 11.15 – 12.00 (45 min)
 | **Vorstellung: Organisationen & Vereine**
 | Vortrag
 | Markus Tiede
@@ -112,7 +112,7 @@ toc::[]
 |🔠 Format
 |🧑 Referent
 
-| 08.30 – 09.30 (1h)
+| 08.45 – 09.30 (45 min)
 | **Public IT in der Schweiz** – Big Picture & Tech Stack: 2030++
 | Vortrag
 | Markus Tiede
