@@ -113,17 +113,17 @@ toc::[]
 |🧑 Referent
 
 | 08.45 – 09.30 (45 min)
-| link:docs/module/5/3/01.md[**Public IT in der Schweiz** – Big Picture & Tech Stack: 2030++]
+| link:docs/module/5/3/01.md[Abgrenzung – **klassische IT & Künstliche Intelligenz**]
 | Vortrag
 | Markus Tiede
 
 | 09.45 – 10.45 (1h)
-| link:docs/module/5/3/02.md[Abgrenzung – **klassische IT & Künstliche Intelligenz**]
+| link:docs/module/5/3/02.md[**Public IT in der Schweiz** – Big Picture & Tech Stack: 2030++]
 | Vortrag
 | Markus Tiede
 
 | 11.00 – 12.00 (1h)
-| link:docs/module/5/3/03.md[**Next Steps: Was ändere ich ab morgen?**]
+| link:docs/module/5/3/03.md[**Next Steps: Was ändere (s)ich ab morgen?**]
 | Gruppenarbeit
 | 
 
