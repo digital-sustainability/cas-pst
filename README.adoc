@@ -85,12 +85,12 @@ toc::[]
 | 
 | 
 
-| 13.15 – 14.15 (1h)
+| 13.15 – 14.00 (45 min)
 | link:docs/module/5/2/04.md[Einführung **«Cloud, Open-APIs & Co»**]
 | Vortrag
 | 
 
-| 14.30 – 15.15 (45 min)
+| 14.15 – 15.15 (1h)
 | link:docs/module/5/2/05.md[**Digitale Souveränität**]
 | Vortrag
 | Markus Tiede
