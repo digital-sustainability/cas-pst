@@ -49,9 +49,9 @@ toc::[]
 | Markus Tiede
 
 | 15.30 – 16.30 (1h)
-| link:docs/module/5/1/06.md[**Open Source im Detail - Rechte & Pflichten**: Lizenzen]
-| Vortrag
-| RK & Markus Tiede
+| link:docs/module/5/1/06.md[**Open Source im Detail - Rechte & Pflichten**: Lizenzen & EMBAG]
+| Gastvortrag
+| https://www.ronzani-schlauri.com/schlauri-de[Simon Schlauri]
 
 |===
 
