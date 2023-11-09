@@ -98,7 +98,7 @@ toc::[]
 | 15.30 – 16.30 (1h)
 | link:docs/module/5/2/06.md[**Praxisbeispiel**]
 | Gastvortrag
-| TBD
+| https://github.com/czosel[Christian Zosel] - https://github.com/adfinis[@adfinis]
 
 |===
 
